@@ -8,8 +8,6 @@ I'm Arsalan Jabbari, a computer engineering enthusiast currently pursuing my stu
 
 ## GitHub Stats 📊
 
-![Arsalan Jabbari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arsalanjabbari&show_icons=true&count_private=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arsalanjabbari&hide_border=true&layout=donut&theme=radical)
 ## About Me 🚀
 
 I thrive on curiosity and a passion for innovation. As a dedicated computer engineering student, I'm driven by the endless possibilities that technology offers. Currently, I'm deeply engrossed in the captivating fields of **Machine Learning** and **Data Science**. Exploring their depths, I find joy in discovering how they can revolutionize our world.
