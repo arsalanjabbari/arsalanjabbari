@@ -1,6 +1,6 @@
-# Arsalan Jabbari - GitHub Repository 👋
+# Hey there! 👋
 
-Hey there! I'm Arsalan Jabbari, a computer engineering enthusiast currently pursuing my studies at Shiraz University in Iran. I'm all about embracing the world of technology and constantly seeking ways to expand my horizons. If you're looking to connect, collaborate, or just have a chat, feel free to reach out. You can find me on various platforms:
+I'm Arsalan Jabbari, a computer engineering enthusiast currently pursuing my studies at Shiraz University in Iran. I'm all about embracing the world of technology and constantly seeking ways to expand my horizons. If you're looking to connect, collaborate, or just have a chat, feel free to reach out. You can find me on various platforms:
 
 - **Email:** itsarsalanjabbari@gmail.com
 - **LinkedIn:** [arsalan-jabbari](https://www.linkedin.com/in/arsalan-jabbari/) 🌐
