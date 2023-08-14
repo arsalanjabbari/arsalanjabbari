@@ -7,7 +7,8 @@ I'm Arsalan Jabbari, a computer engineering enthusiast currently pursuing my stu
 - **Twitter:** [@jabbariarsalan](https://twitter.com/jabbariarsalan) 🐦
 
 ## GitHub Stats 📊
-![Arsalan Jabbari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arsalanjabbari&show_icons=true&count_private=true&theme=radical)
+
+![Arsalan Jabbari's GitHub Stats](https://github-readme-stats-ruby-one.vercel.app/api?username=arsalanjabbari&show_icons=true&count_private=true&theme=radical)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arsalanjabbari&hide_border=true&layout=donut&theme=radical)
 
 ## About Me 🚀
