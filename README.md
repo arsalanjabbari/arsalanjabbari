@@ -4,7 +4,7 @@ I'm Arsalan Jabbari, a computer engineering enthusiast currently pursuing my stu
 
 - **Email:** itsarsalanjabbari@gmail.com
 - **LinkedIn:** [arsalan-jabbari](https://www.linkedin.com/in/arsalan-jabbari/) 🌐
-- **Twitter:** [@jabbariarsalan](https://twitter.com/jabbariarsalan) 🐦
+- **X (Twitter):** [@jabbariarsalan](https://twitter.com/jabbariarsalan) 🐦
 
 ## GitHub Stats 📊
 
