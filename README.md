@@ -1,11 +1,12 @@
 # Hey there! 👋
 
-I'm Arsalan Jabbari, a computer engineering enthusiast currently pursuing my studies at Shiraz University in Iran. I thrive on curiosity and a passion for innovation. As a dedicated computer engineering student, I'm driven by the endless possibilities that technology offers. Currently, I'm deeply engrossed in the captivating fields of Machine Learning and Data Science. Exploring their depths, I find joy in discovering how they can revolutionize our world. If you're looking to connect, collaborate, or just have a chat, feel free to reach out. You can find me on various platforms:
+I'm Arsalan Jabbari, a computer engineering graduate from Shiraz University and a passionate data analyst. With a strong foundation in technology and a love for problem-solving, I specialize in transforming data into actionable insights. My expertise lies in Machine Learning, Data Science, and data-driven decision-making. Always open to connecting, collaborating, or discussing exciting opportunities—feel free to reach out!
 
 - **Email:** itsarsalanjabbari@gmail.com
 - **LinkedIn:** [arsalan-jabbari](https://www.linkedin.com/in/arsalan-jabbari/) 
 - **X (Twitter):** [@jabbariarsalan](https://twitter.com/jabbariarsalan) 
 
+<!---
 ## GitHub Stats 📊
 
 ![Arsalan Jabbari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arsalanjabbari&show_icons=true&count_private=true&theme=radical)
@@ -31,6 +32,7 @@ My journey isn't just about technical prowess. I've honed several soft skills th
 - **Leadership:** Guiding and inspiring others to reach their potential.
 - **Time Management:** Efficiently juggling tasks to make the most of every moment.
 - **Meticulous:** Paying attention to detail and ensuring precision in all endeavors.
+-->
 
 ## Vision and Future 🌟
 
