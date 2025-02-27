@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Arsalan Jabbari, a computer engineering graduate from Shiraz University and a passionate data analyst. With a strong foundation in technology and a love for problem-solving, I specialize in transforming data into actionable insights. My expertise lies in Machine Learning, Data Science, and data-driven decision-making. Always open to connecting, collaborating, or discussing exciting opportunities—feel free to reach out!
+I'm Arsalan Jabbari, a computer engineering graduate from Shiraz University and a passionate data analyst. With a strong foundation in technology and a love for problem-solving, I specialize in transforming data into actionable insights. My expertise lies in Machine Learning, Data Science, and data-driven decision-making. Always open to connecting, collaborating, or discussing exciting opportunities!
 
 - **Email:** itsarsalanjabbari@gmail.com
 - **LinkedIn:** [arsalan-jabbari](https://www.linkedin.com/in/arsalan-jabbari/) 
