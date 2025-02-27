@@ -34,8 +34,8 @@ My journey isn't just about technical prowess. I've honed several soft skills th
 - **Meticulous:** Paying attention to detail and ensuring precision in all endeavors.
 -->
 
-## Vision and Future 🌟
+<!--- ## Vision and Future 🌟
 
 In this dynamic world, I'm dedicated to continuous learning and growth. My goal is to make a tangible impact in the tech realm. By harnessing my skills, particularly in Machine Learning and Data Science, I aspire to create innovative solutions that drive positive change. With an unwavering work ethic and a penchant for pushing boundaries, I'm excited about the journey ahead.
-
+--->
 Feel free to explore my repositories, engage in discussions, or connect with me through any of the mentioned platforms. Let's learn, grow, and innovate together! 🚀
