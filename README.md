@@ -3,8 +3,8 @@
 I'm Arsalan Jabbari, a computer engineering enthusiast currently pursuing my studies at Shiraz University in Iran. I thrive on curiosity and a passion for innovation. As a dedicated computer engineering student, I'm driven by the endless possibilities that technology offers. Currently, I'm deeply engrossed in the captivating fields of Machine Learning and Data Science. Exploring their depths, I find joy in discovering how they can revolutionize our world. If you're looking to connect, collaborate, or just have a chat, feel free to reach out. You can find me on various platforms:
 
 - **Email:** itsarsalanjabbari@gmail.com
-- **LinkedIn:** [arsalan-jabbari](https://www.linkedin.com/in/arsalan-jabbari/) 🌐
-- **X (Twitter):** [@jabbariarsalan](https://twitter.com/jabbariarsalan) 🐦
+- **LinkedIn:** [arsalan-jabbari](https://www.linkedin.com/in/arsalan-jabbari/) 
+- **X (Twitter):** [@jabbariarsalan](https://twitter.com/jabbariarsalan) 
 
 ## GitHub Stats 📊
 
